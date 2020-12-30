@@ -18,7 +18,7 @@ Copy the link and share it to anyone whom you want to send the file.
 
 ## :envelope: Send link as Email
 
-Simply enter the Email address of the recipient and the Sender. It will send the link to the Recipient email address. ( Generally, it is send in the Promotions section)
+Simply enter the Email address of the recipient and the Sender. It will send the link to the Recipient email address.( Generally, it is send in the Promotions section)
 
 ## :desktop_computer: Tech Stack Used
 
