@@ -1,4 +1,4 @@
-# :shake_palm: Let's share your files with great ease
+# :file_folder: Let's share your files with great ease
 
 SharewithAman - https://share-with-aman.herokuapp.com/
 
