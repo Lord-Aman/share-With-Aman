@@ -4,6 +4,10 @@ const app = express(); // Since express is a function so we need to call it
 const PORT = process.env.PORT || 3000;
 const path = require("path");
 const cors = require("cors");
+
+//frontend
+app.use(express.static(path.join(__dirname, "./public/frontend")));
+
 // Cors
 const corsOptions = {
   origin: process.env.ALLOWED_CLIENTS.split(","),
