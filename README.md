@@ -1,4 +1,4 @@
-# :smile: Let's share your files with great ease
+# :shake_palm: Let's share your files with great ease
 
 SharewithAman - https://share-with-aman.herokuapp.com/
 
@@ -20,6 +20,6 @@ Copy the link and share it to anyone whom you want to send the file.
 
 Simply enter the Email address of the recipient and the Sender. It will send the link to the Recipient email address. ( Generally, it is send in the Promotions section)
 
-## :deskop_computer: Tech Stack Used
+## :desktop_computer: Tech Stack Used
 
 Vanilla JS, MongoDB (database), Node
