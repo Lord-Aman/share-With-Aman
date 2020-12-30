@@ -16,10 +16,10 @@ It will automatically upload the file and generate a link.
 
 Copy the link and share it to anyone whom you want to send the file.
 
-## :enevelope: Send link as Email
+## :envelope: Send link as Email
 
 Simply enter the Email address of the recipient and the Sender. It will send the link to the Recipient email address. ( Generally, it is send in the Promotions section)
 
-## :love: Tech Stack Used
+## :pinkheart: Tech Stack Used
 
 Vanilla JS, MongoDB (database), NodeJS , ExpressJS, HTML, CSS. :)
