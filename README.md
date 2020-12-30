@@ -20,6 +20,6 @@ Copy the link and share it to anyone whom you want to send the file.
 
 Simply enter the Email address of the recipient and the Sender. It will send the link to the Recipient email address. ( Generally, it is send in the Promotions section)
 
-## :pinkheart: Tech Stack Used
+## :heart: Tech Stack Used
 
 Vanilla JS, MongoDB (database), NodeJS , ExpressJS, HTML, CSS. :)
