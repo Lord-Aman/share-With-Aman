@@ -16,6 +16,8 @@ function connectDB() {
     .catch((err) => {
       console.log("Connection failed ☹️☹️☹️☹️");
     });
+
+    db.collection.createIndex( { "createdAt": 1 }, { expireAfterSeconds: 100 } )
 }
 
 module.exports = connectDB;
