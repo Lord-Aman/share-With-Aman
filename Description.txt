@@ -13,3 +13,22 @@ I have built this app on top of the following technologies - MongoDB (database),
 
 What this app basically does is, A user when uploads a file which is done using multer package. The file is uploaded to the MongoDB Database using an API. After that, it generates a link to that proper webpage from where the following uploaded file can be downloaded. Also, it has a feature by which a user can send mail to a recipient client with the generated download link. ( Email task is performed using Sendinblue) 
 
+
+
+
+
+// Why do you want to join ...
+Being a student, I will be highly obliged to be get selected.
+
+It's always a  great thing to me to enhance my skills and learn new skills in the tech industry. And I think Crio.do winter of doing will really help me a lot to achieve this. :)
+
+I possess knowledge and experience in the following skills:
+
+	Web Development - 		HTML5,CSS3, Vanilla JS, Bootstrap. --> Frontend. 
+			 
+			Node JS, Express JS, MongoDB, API's, REACT --> Backend.
+			
+			Other Skills -> Git and Github, Heroku
+	Programming and Problems Solving skills --> Competitive Programmer, Data Structures and Algorithms.
+	
+I think I will be great fit for this externship program because I have a can do attitude toward learning and acquiring new skills. I will be able to provide my undivided attention and focus to each and every task I have been assigned to. 
