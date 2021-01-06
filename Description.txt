@@ -1,0 +1,15 @@
+https://share-with-aman.herokuapp.com/
+
+Share-with-aman is a Web App which gives users the functionality to share files over the internet without file size limit issue.
+
+Basically, the reason behind the development of this is - I have been facing some little bit issues to share files which are of greater sizes.
+Before the banning of chinese apps it was easy to do this task. But after banning there are a lot of third party indian apps which shows a lot of ads on their UI more than providing the service.
+
+And If I go for gmail, then there the max file size limit is 25MB. 
+
+Hence, I developed my own sharing app. It is deployed on Heroku.
+
+I have built this app on top of the following technologies - MongoDB (database), ExpressJS (Server side JS) , NodeJS ( for Runtime), AJAX (To make HTTP Requests), and standard HTML5 and CSS3.
+
+What this app basically does is, A user when uploads a file which is done using multer package. The file is uploaded to the MongoDB Database using an API. After that, it generates a link to that proper webpage from where the following uploaded file can be downloaded. Also, it has a feature by which a user can send mail to a recipient client with the generated download link. ( Email task is performed using Sendinblue) 
+
