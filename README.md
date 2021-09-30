@@ -23,3 +23,5 @@ Simply enter the Email address of the recipient and the Sender. It will send the
 ## :desktop_computer: Tech Stack Used
 
 Vanilla JS, MongoDB (database), NodeJS, ExpressJS (server side), Insomnia (Postman also works)
+
+## Made with Love : By Lord Aman
